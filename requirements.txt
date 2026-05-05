@@ -1,0 +1,10 @@
+pymongo 
+voyageai 
+pandas 
+datasets 
+matplotlib
+ipykernel
+ipywidgets 
+widgetsnbextension 
+jupyterlab 
+tqdm
