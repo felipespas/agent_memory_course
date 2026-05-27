@@ -8,3 +8,13 @@ ipywidgets
 widgetsnbextension 
 jupyterlab 
 tqdm
+openai
+azure-identity
+oracledb 
+sqlalchemy 
+sentence-transformers
+datasets 
+einops 
+numpy<2.0
+openai-agents
+nest-asyncio
