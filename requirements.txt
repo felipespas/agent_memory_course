@@ -18,3 +18,11 @@ einops
 numpy<2.0
 openai-agents
 nest-asyncio
+langchain-oracledb 
+sentence-transformers 
+langchain-openai 
+langchain 
+langchain-community
+langchain-huggingface
+tavily-python 
+datasets
