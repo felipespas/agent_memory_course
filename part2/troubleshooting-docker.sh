@@ -11,4 +11,3 @@ docker run -d \
   -e ORACLE_PDB=FREEPDB1 \
   -v $HOME/oracle/full_data:/opt/oracle/oradata \
   container-registry.oracle.com/database/free:latest
-

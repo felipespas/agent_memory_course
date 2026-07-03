@@ -1,4 +1,5 @@
 pymongo 
+motor
 voyageai 
 pandas 
 datasets 
@@ -8,6 +9,7 @@ ipywidgets
 widgetsnbextension 
 jupyterlab 
 tqdm
+certifi
 openai
 azure-identity
 oracledb 
@@ -26,3 +28,4 @@ langchain-community
 langchain-huggingface
 tavily-python 
 datasets
+beir
